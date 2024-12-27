@@ -1,1 +1,3 @@
 # student
+
+THIS IS MY FRIST REPOSITORY
